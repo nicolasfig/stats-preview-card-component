@@ -98,6 +98,8 @@ p {
   .card {
     flex-direction: column;
     margin: 10rem 5rem;
+    padding-top: 5rem;
+    height: 100%;
   }
 
   .image {
