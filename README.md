@@ -80,5 +80,3 @@ I want to focus on flexbox and how to use it effectively
 ## Author
 
 - Frontend Mentor - [@nicolasfig](https://www.frontendmentor.io/profile/nicolasfig)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
