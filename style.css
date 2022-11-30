@@ -48,7 +48,7 @@ body {
   min-height: 375px;
   background-size: cover;
   background-repeat: no-repeat;
-  background: url(/images/image-header-desktop.jpg);
+  background: url(./images/image-header-desktop.jpg);
   border-radius: 0 0.5rem 0.5rem 0;
 }
 .overlay {
@@ -105,7 +105,7 @@ p {
     min-height: 375px;
     background-size: cover;
     background-repeat: no-repeat;
-    background: url(/images/image-header-desktop.jpg);
+    background: url(./images/image-header-mobile.jpg);
     border-radius: 0.5rem 0.5rem 0 0;
   }
   .text {
